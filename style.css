@@ -1,0 +1,60 @@
+body
+{
+background-color: white;
+color: black;
+font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+hr {
+    height: 1px;
+    background-color: white;
+    border-color: white;
+}
+
+.receita {
+    width: 900px;
+    background-color: burlywood;
+    margin: auto;
+    padding: 20px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.imagem {
+    width: 450px;
+    height: 350px;
+    margin: 20px auto;
+    transition: .5s;    
+}
+
+.imagem:hover {
+    width: 400px;
+    height: 300px;
+}
+
+.um {
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 65%;
+}
+
+.dois {
+    text-align: center;
+}
+
+.três {
+    text-align: center;
+    font-style: italic;
+    margin-left: 55%;
+    margin-right: 45%;
+    font-weight: bold;
+}
